@@ -1,24 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.0316c504.css",
-    "main.js": "/static/js/main.3b32337e.js",
-    "static/media/TheResto.PNG": "/static/media/TheResto.8bc07ad600541e80ec62.PNG",
-    "static/media/RocknRollOne-Regular.ttf": "/static/media/RocknRollOne-Regular.10a7371ad504ad992407.ttf",
-    "static/media/GamingCampus.PNG": "/static/media/GamingCampus.fb4e67f72b5c94875787.PNG",
-    "static/media/Style_vaisseau.PNG": "/static/media/Style_vaisseau.570b21afb774254f7e31.PNG",
-    "static/media/React-Kasa.PNG": "/static/media/React-Kasa.a9c632666f1d5cc89408.PNG",
-    "static/media/ReactMovie.PNG": "/static/media/ReactMovie.28c00d09454191f2e746.PNG",
-    "static/media/OhMyFood.PNG": "/static/media/OhMyFood.0f73a332f8a83edcef6d.PNG",
-    "static/media/AtkinsonHyperlegible-Regular.ttf": "/static/media/AtkinsonHyperlegible-Regular.b67275748172037676f3.ttf",
-    "static/media/ArgentBank.png": "/static/media/ArgentBank.0ed0803761ee8d1f431a.png",
-    "static/media/JokeApp.PNG": "/static/media/JokeApp.ad884d101b5bd8fd43ac.PNG",
-    "static/media/Bulle.PNG": "/static/media/Bulle.10cd02abede3430823ef.PNG",
+    "main.css": "/static/css/main.b6440e79.css",
+    "main.js": "/static/js/main.131a00a8.js",
     "index.html": "/index.html",
-    "main.0316c504.css.map": "/static/css/main.0316c504.css.map",
-    "main.3b32337e.js.map": "/static/js/main.3b32337e.js.map"
+    "main.b6440e79.css.map": "/static/css/main.b6440e79.css.map",
+    "main.131a00a8.js.map": "/static/js/main.131a00a8.js.map"
   },
   "entrypoints": [
-    "static/css/main.0316c504.css",
-    "static/js/main.3b32337e.js"
+    "static/css/main.b6440e79.css",
+    "static/js/main.131a00a8.js"
   ]
 }
